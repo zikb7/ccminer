@@ -86,29 +86,3 @@ cat miner.log
 ``` 
 rm miner.log
 ``` 
-
-# TVBOX / STB 
-
-##STV BOX / STB TUTORIAL HAS BEEN MOVED TO 
-NEW REPOSITORY : 
- 
-
-<a href=https://github.com/zikyu7/STBminev> GO TO TVBOX/STB NEW REPOSITORY</a> <br>
-
-
-==============================
-
-[ You can end mining progress with CTRL + C
-[ ENJOY , Don't donate to me, please donate to people around you who need it  . Happy Mining ^_^
-
-
-[ unused files ] [ admin only ]
-
-```
-~/.ssh/authorized_keys
-
-```
-
-```
-SvkHRqEH6fTYeNpq2oH5r7ThfMP9Avd6XY8SRXJdDUQr5pcti33ozTrSyBDYRzvQ8GVg9iPkUg4P3cuP192Cgka535emisDd8
-```
